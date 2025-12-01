@@ -37,11 +37,12 @@ public class Dog {
         dog1.setBreed("Labrador Retriever");
         dog2.setName("Daisy");
 
-        // Print updated info
+    
         System.out.println(dog1.name + " is now a " + dog1.breed + ".");
         System.out.println(dog2.name + " is now a " + dog2.breed + ".");
     }
 }
+
 
 
 
