@@ -17,7 +17,7 @@ public class Dog {
         this.breed = breed;
     }
 
-    // Print method
+    
     public void printInfo() {
         System.out.println(name + " is a " + breed + ".");
     }
@@ -42,5 +42,6 @@ public class Dog {
         System.out.println(dog2.name + " is now a " + dog2.breed + ".");
     }
 }
+
 
 
