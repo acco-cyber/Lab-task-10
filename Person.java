@@ -3,7 +3,6 @@ public class Person {
     private String name;
     private int age;
 
-    // Constructor
     public Person(String name, int age) {
         this.name = name;
         this.age = age;
@@ -43,4 +42,5 @@ public class Person {
         System.out.println(person2.name + " is now " + person2.age + " years old.");
     }
 }
+
 
