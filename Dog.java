@@ -3,7 +3,7 @@ public class Dog {
     private String name;
     private String breed;
 
-    // Constructor
+
     public Dog(String name, String breed) {
         this.name = name;
         this.breed = breed;
@@ -43,3 +43,4 @@ public class Dog {
         System.out.println(dog2.name + " is now a " + dog2.breed + ".");
     }
 }
+
