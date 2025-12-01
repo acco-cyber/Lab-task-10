@@ -1,4 +1,4 @@
-// Person.java
+
 public class Person {
     private String name;
     private int age;
@@ -43,3 +43,4 @@ public class Person {
         System.out.println(person2.name + " is now " + person2.age + " years old.");
     }
 }
+
