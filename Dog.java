@@ -23,7 +23,7 @@ public class Dog {
     }
 
     public static void main(String[] args) {
-        // Create Dog objects
+
         Dog dog1 = new Dog("Buddy", "Golden Retriever");
         Dog dog2 = new Dog("Charlie", "Bulldog");
 
@@ -42,6 +42,7 @@ public class Dog {
         System.out.println(dog2.name + " is now a " + dog2.breed + ".");
     }
 }
+
 
 
 
