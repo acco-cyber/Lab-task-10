@@ -9,7 +9,6 @@ public class Dog {
         this.breed = breed;
     }
 
-    // Setter methods
     public void setName(String name) {
         this.name = name;
     }
@@ -43,4 +42,5 @@ public class Dog {
         System.out.println(dog2.name + " is now a " + dog2.breed + ".");
     }
 }
+
 
